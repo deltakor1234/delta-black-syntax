@@ -1,0 +1,15 @@
+{
+  "name": "delta-black-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Delta Black Syntax Theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/deltakor1234/delta-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
